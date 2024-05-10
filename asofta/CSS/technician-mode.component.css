@@ -28,7 +28,7 @@ a {
 
 .asofta_technician_mode {
   background-color: var(--dull-green);
-  max-height: 1920px;
+  /* max-height: 1920px; */
   /* min-height: 1920px; */
   /* height: 1920px; */
   max-width: 1080px;

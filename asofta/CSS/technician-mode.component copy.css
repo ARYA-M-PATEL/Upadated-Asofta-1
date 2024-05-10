@@ -20,6 +20,7 @@ a {
   /* min-height: 1920px; */
   /* height: 1920px; */
   max-width: 1080px;
+  height: auto;
   /* max-width: 595px; */
   margin: 0 auto;
   color: #464747;
